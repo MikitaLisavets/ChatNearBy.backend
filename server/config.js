@@ -1,6 +1,7 @@
 const CONFIG = {
+  AUTH_COOKIE: 'USER_KEY',
   MONGODB: {
-    URL: 'ds147510.mlab.com:47510/chatnearby',
+    URL: 'ds133271.mlab.com:33271/chatnearby',
     S_LOGIN: 'server',
     S_PASSWORD: 'server'
   }
